@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: artem
+Build-Jdk: 21.0.4
+Main-Class: ru.home.StartIt
+Created-By: Maven Integration for Eclipse
+
